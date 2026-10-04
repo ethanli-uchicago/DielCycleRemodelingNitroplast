@@ -1,0 +1,19 @@
+# TODO: fill in authors / journal / year / DOI. Validate at https://citation-file-format.github.io/cffconvert/
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the associated paper."
+title: "Analysis scripts for: Diel remodeling and cellular integration of the nitroplast"
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+# version: "1.0.0"
+# date-released: "YYYY-MM-DD"
+# url: "https://github.com/TODO/TODO"
+preferred-citation:
+  type: article
+  title: "Diel remodeling and cellular integration of the nitroplast"
+  authors:
+    - family-names: "TODO"
+      given-names: "TODO"
+  # journal: "TODO"
+  # year: TODO
+  # doi: "TODO"

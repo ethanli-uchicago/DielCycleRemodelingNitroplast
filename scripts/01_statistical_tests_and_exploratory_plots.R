@@ -1,13 +1,11 @@
 # ==============================================================================
-# 01_statistical_tests_and_exploratory_plots.R   (originally: analysis.R)
+# 01_statistical_tests_and_exploratory_plots.R
 #
 # Day vs Night comparisons of hat structures, internal lamellae type, globules
 # and spiky vesicles (Welch t-tests and Pearson correlations), followed by
 # exploratory plots (boxplots, violins, bar charts).
 #
 # Inputs : data/Day_cleaned.csv, data/Night_cleaned.csv
-# Outputs: console statistics (see results/ when run via run_all.R) and
-#          figures/01_statistical_tests_and_exploratory_plots.pdf
 #
 # NOTE: only two time points (Day, Night) appear here. The paper's vesicle and hat
 # figures come from 03 and 04 (four time points), so the vesicle/hat plots in the
