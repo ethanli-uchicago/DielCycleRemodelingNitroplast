@@ -1,0 +1,65 @@
+﻿Nickname,Grid,Tomogram,MembraneStructure,Internal Lamellae Type,Estimated Average Lamellae Width,Globules Observed,Globule Diameters (Widest),Spiky Vesicles Observed,Vesicle Diameter (widest),Smooth Vesicles Observed,Vesicle Diameter (widest).1,Hat Structures Observed?,NumHat,Interesting Features
+Bad,1,1,No,,,0,,0,,0,,No,,
+Conjoined,1,2,Yes,Thin and Thick,16,2,82,0,,0,,No,0,"There are two adjacent nitroplasts with different classes of lamellae in them, it is unclear if they are currently conjoined. It seems as if there are many breakages in the nitroplast membrane. The outer host membrane is coming off of the nitroplast membrane on one of the nitroplasts."
+Many hats,1,3,No,Thick,38,1,70,0,,0,,Yes,4,"Found many indents/invaginations/hat-like structures, but likely because it is a thick lamellae type"
+Many globs,1,4,Yes,Thick,40,17,69,0,,0,,Yes,5,Found many indents/inv/hat structures. Uniquely large quantity of globules present
+,1,4,,,,,58,,,,,,,
+,1,4,,,,,60,,,,,,,
+,1,4,,,,,49,,,,,,,
+,1,4,,,,,49,,,,,,,
+,1,4,,,,,56,,,,,,,
+,1,4,,,,,54,,,,,,,
+,1,4,,,,,34,,,,,,,
+,1,4,,,,,65,,,,,,,
+,1,4,,,,,111,,,,,,,
+,1,4,,,,,77,,,,,,,
+,1,4,,,,,60,,,,,,,
+,1,4,,,,,50,,,,,,,
+,1,4,,,,,45,,,,,,,
+,1,4,,,,,51,,,,,,,
+,1,4,,,,,63,,,,,,,
+,1,4,,,,,49,,,,,,,
+Bad 2,1,5,Yes,Thin,15,0,,0,,0,,No,0,"Very bad tomogram, tear at the collection site"
+Dividing?,1,6,Yes,Thick,25,0,,0,,0,,Yes,3,"Either the nitroplast is dividing or it has two bulbous extensions on it. Surprisingly has no visible globules. Can see internal lamellae seperating from the inner membrane, so they are of the same material. It seems that there are also indent/inv/hat structures on it,"
+Hats and sac(?),1,7,Yes,Thick,25,0,,0,,0,,Yes,1,"This nitroplast has a very good and clear example of the hat-like structure in the internal membranes. Surprisingly no globules, but there is a strangely bulbous membrane sac inside of it"
+External Ves,1,8,Yes,Thin,15,7,65,0,,1,83,Yes,6,"It seems there is a vesicle right outside of the membrane, but it hasn't been absorbed into the outer membrane layers of the nitroplast. I'm classifying it as smooth"
+,1,8,,,,,78,,,,,,,
+,1,8,,,,,34,,,,,,,
+,1,8,,,,,68,,,,,,,
+,1,8,,,,,61,,,,,,,
+,1,8,,,,,91,,,,,,,
+,1,8,,,,,48,,,,,,,
+Thin hats,1,9,No,Thin,15,9,56,0,,0,,Yes,2,Some hats on the thin-type membrane
+,1,9,,,,,72,,,,,,,
+,1,9,,,,,60,,,,,,,
+,1,9,,,,,44,,,,,,,
+,1,9,,,,,50,,,,,,,
+,1,9,,,,,77,,,,,,,
+,1,9,,,,,55,,,,,,,
+,1,9,,,,,58,,,,,,,
+,1,9,,,,,82,,,,,,,
+Loose membrane,1,10,Yes,Thick,24,2,55,0,,1,254,Yes,2,"Suspicious of the hat structure I found. Large smooth vesicle within the outer membrane. Host outer membrane is extended really far out, and there is another organelle/structure that is pressing very close to the nitroplast."
+,1,10,,,,,74,,,,,,,
+Nothing new,1,11,Yes,Thick,27,3,63,0,,0,,Yes,1,"Nothing incredibly remarkable, noticed some hat-structures. Not a clear tomogram."
+,1,11,,,,,53,,,,,,,
+,1,11,,,,,62,,,,,,,
+Wide hat,2,1,Yes,Thin,20,0,,0,,0,,Yes,4,"Has a very ""wide"" hat structure, 23 nm at the widest. Not a clear tomogram"
+Vesicle absorbed,2,2,Yes,Thin,18,1,57,0,,0,,Maybe,1,"There seems to be a vesicle merging with an internal membrane! Hat structures are less detectable on this. Outside of the nitroplast, there seems to be some variety of external vesicles. Hard to determine relation with nitroplsat."
+Thin hat 2,2,3,No,Thin,13,2,59,0,,0,,Yes,1,Nothing notable. Good example of a thin type lamellae having a hat structure
+,2,3,,,,,71,,,,,,,
+Splitting lamellae,2,4,No,Thin,18,0,,0,,0,,Yes,1,"Only 1 hat structure. Internal lamellae are not all parallel, and some are running into each other throughout the nitroplast."
+Donut above,2,6,Yes,Thin,10,0,,0,,0,,No,0,"Too noisy to see the internal structures of the nitroplast clearly, but it is clear that there is a large amount of ribosomes inside. I am very interested in what the vesicles above it are, and what is budding off of it. It is a little ""donut-y"" and spiky. The circular one has diameter 290 nm and the long one is about 380 nm x 100 nm dimensions."
+Nitroplast not observed,2,7,No,None,,0,,2,54,0,,N/A,0,No nitroplast but interesting donut structures
+Still some cool things,2,7,,,,,,,48,,,,,
+"Broken Membrane, Globule Absorption",2,8,Yes,Thin,20,1,56,0,,0,,Maybe,0,Nitroplast exterior membrane is broken.
+"Globule Absorption 2, Spiky Vesicle!",2,9,Yes,Thin,22,1,72,1,53,1,72,Maybe,0,Globule merging with internal lamellae. Contains a smooth and spiky vesicle underneath the host exterior membrane.
+Day-lite,2,10,Yes,Thin,20,0,,5,53,0,,No,0,"Contains stacked vesicles clustered together similar to what is observed in the day nitroplasts. The reconstruction isn't super good, and I am unable to identify any globules or hat structures"
+Stacked spiky vesicles,2,10,,,,,,,45,,,,,
+,2,10,,,,,,,34,,,,,
+,2,10,,,,,,,43,,,,,
+,2,10,,,,,,,52,,,,,
+Casual and Chloroplast,2,12,Yes,Thin,18,0,,0,,0,,Yes,3,Membrane of nitroplast has been punched through. Located directly adjacent of a chloroplast
+Internal Lamellae Division,2,13,Yes,Thick and Thin,24,2,61,0,,0,,Yes,2,Lot of internal lamellae divisions.
+,2,13,,,36,,46,,,,,,,
+Not interesting,2,14,No,Thin,16,0,,0,,0,,Yes,2,Nothing majorly of interest. Also contains lots of internal lamellae divisions. 
+Bad tomogram,2,15,Yes,Thin,18,0,,0,,0,,No,0,Tomogram is not well reconstructed and is hard to make out any internal structures without blurriness.
