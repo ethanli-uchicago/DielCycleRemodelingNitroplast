@@ -29,7 +29,7 @@ thylakoid widths, membrane contact sites) across four time points:
 | Script | Produces | Paper figure / table |
 |---|---|---|
 | `01_statistical_tests_and_exploratory_plots` | Day vs Night Welch t-tests and correlations (hats, lamellae, globules, vesicles); exploratory boxplots, violins, bar charts | TODO |
-| `02_vesicle_hat_figures_4state` ✔ used in paper | **Four-time-point** Panels A–C: vesicle density, vesicle diameters, hat density; negative binomial model with Holm-adjusted pairwise contrasts | TODO |
+| `02_vesicle_hat_figures_4state` | **Four-time-point** Panels A–C: vesicle density, vesicle diameters, hat density; negative binomial model with Holm-adjusted pairwise contrasts | TODO |
 | `03_thylakoid_width` | Thylakoid-width histograms by time point; logistic regression and t-test, Day vs Night | TODO |
 | `04_mcs_table` | Membrane contact site percentages table | TODO |
 
