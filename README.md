@@ -7,6 +7,10 @@ The analyses compare nitroplast features (internal lamellae, globules, spiky ves
 thylakoid widths, membrane contact sites) across four time points:
 **Day, Evening, Night, Morning**.
 
+**MCS calculations**
+Minimal distances between meshes were computed using the mindist script by Uwizeye (2020).
+https://gitlab.com/clariaddy/mindist
+
 ## Repository layout
 
 ```
