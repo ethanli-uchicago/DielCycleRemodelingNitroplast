@@ -21,6 +21,7 @@ https://gitlab.com/clariaddy/mindist
 │   ├── 02_vesicle_hat_figures_4state.R
 │   ├── 03_thylakoid_width.R
 │   ├── 04_mcs_table.R
+│   ├── Fig4_UCYN-A_volcanos.R
 │   └── run_all.R              runs everything in order
 ├── archive/                   superseded code, kept for provenance (not run by run_all.R)
 │   └── vesicle_hat_figures_superseded.R
@@ -36,6 +37,7 @@ https://gitlab.com/clariaddy/mindist
 | `02_vesicle_hat_figures_4state` | **Four-time-point** Panels A–C: vesicle density, vesicle diameters, hat density; negative binomial model with Holm-adjusted pairwise contrasts | TODO |
 | `03_thylakoid_width` | Thylakoid-width histograms by time point; logistic regression and t-test, Day vs Night | TODO |
 | `04_mcs_table` | Membrane contact site percentages table | TODO |
+| `Fig4_UCYN-A_volcanos.R` | Supplementary figure for expression volcano plot | TODO |
 
 ## Running
 
