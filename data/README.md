@@ -9,6 +9,8 @@
 | `lamellae_thickthincombined.csv` | 02 | 322 lamellae width measurements (nm): `Thick` (n = 213), `Thin` (n = 109), `Combined` (all 322). |
 | `hat_counts_by_tomogram.csv` | 01, 03, 04 | One row per tomogram (72 total): `state` (Day / Evening / Night / Morning), `tomogram_position` (order within that period), `hats` (hat structures counted), `vol` (matrix volume, µm³). Totals: Day 1 / 1.601, Evening 24 / 2.957, Night 49 / 4.979, Morning 31 / 5.859. |
 | `Supplementary_Data_S1.csv` | Fig4_UCYN-A_Volcanos | |
+| `Supplementary_Data_S2.csv` | Fig4_UCYN-A_Volcanos | |
+
 
 ### Columns used (names as R's `read.csv` sees them)
 
